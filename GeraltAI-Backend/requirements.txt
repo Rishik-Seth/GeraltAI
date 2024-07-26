@@ -1,0 +1,11 @@
+asgiref==3.8.1
+Django==5.0.4
+numpy==1.26.4
+opencv-python==4.9.0.80
+sqlparse==0.4.4
+typing_extensions==4.11.0
+djangorestframework-jwt
+djangorestframework
+python-dotenv
+django-cors-headers
+supabase
